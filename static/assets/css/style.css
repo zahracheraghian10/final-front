@@ -241,7 +241,7 @@ footer {
     grid-template-columns: repeat(2,1fr);
     width: 53%;
     gap: 1%;
-    height: 400px;
+    height: 350px;
     backdrop-filter: blur(10px);
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -340,4 +340,6 @@ footer {
     background-color: blue;
     
 }
-
+.cardPage footer {
+    margin-top: 8%;
+}
