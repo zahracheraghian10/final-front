@@ -15,10 +15,10 @@ body{
 }
 
 .productPage{
-    background-image: url(/static/img/34.jpg);
+    background: url("/static/img/34.jpg");
     background-size: cover;
-    background-position: center;
-    
+    background-repeat: no-repeat;
+    min-height: 100vh;
 }
 .container{
     width: 80%;
